@@ -27,7 +27,7 @@
 
 # :speaking_head:	Idiomas que entiendo:
 + Inglés: estudie en el Departamento de idiomas modernos de la UNNE 
-+ Checo: estudie en el Departamento de idiomas modernos de la UNNE y fui un mes a Chequia 
++ Checo: estudie en el Departamento de idiomas modernos de la UNNE y en la Univerzita Karlova - Chequia
 
 # :envelope:	 Podes encotrarme en: 
 + [LinkedIn](https://www.linkedin.com/in/marcos-gonz%C3%A1lez-0482044b/)
